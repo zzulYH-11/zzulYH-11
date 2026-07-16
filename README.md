@@ -28,7 +28,7 @@ https://view04724.tistory.com/
 ### 📊 **Project**
 
 ### 📊 **GitHub Stats**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzulYH-11&theme=radical&show_icons=true)](https://github.com/zzulYH-11)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzulYH-11&theme=tokyonight&show_icons=true)
 
 ### 📫 **Contacts**
 
