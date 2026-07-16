@@ -1,10 +1,10 @@
-## 👨‍💻 ****About Me
+### 👨‍💻 **About Me**
 
 안녕하세요, 홍익대학교 컴퓨터공학과 2학년 전유하입니다.
 
 단단하고 효율적인 백엔드 시스템 설계하는 백엔드 개발자가 되기 위해 공부중입니다.
 
-### **📖 Blog**
+### 📖 **Blog**
 
 https://view04724.tistory.com/
 
@@ -14,7 +14,6 @@ https://view04724.tistory.com/
 
 [](https://camo.githubusercontent.com/5329a57f7cb2009c3ef1275b6f37fdd01880cf4799c6e12bf597da0796965a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
 
-## 🛠 Tech Stack
 
 <div align="center">
   <!-- Languages -->
@@ -27,15 +26,15 @@ https://view04724.tistory.com/
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### **🏃 Activity**
+### 🏃 **Activity**
 
 (2026.05 - 2026.08) GDG 프로젝트 트랙
 
-### **📊 Project**
+### 📊 **Project**
 
-### **📊 GitHub Stats**
+### 📊 **GitHub Stats**
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzulYH-11&theme=radical&show_icons=true)](https://github.com/zzulYH-11)
 
-## **📫 Contacts**
+### 📫 **Contacts**
 
 E-mail : jjuluha11@gmail.com
